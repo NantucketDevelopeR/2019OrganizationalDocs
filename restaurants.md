@@ -1,5 +1,10 @@
 # Restaurant options
 
+Charlie Noble
+
+Island Kitchen
+
+
 Kitty Murtagh's
 
 Island Kitchen (https://www.nantucketislandkitchen.com)
