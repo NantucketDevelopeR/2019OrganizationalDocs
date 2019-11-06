@@ -1,12 +1,11 @@
 # Restaurant options
 
-- Kitty Murtagh's
+Kitty Murtagh's
 
+Island Kitchen (https://www.nantucketislandkitchen.com)
 
-- Island Kitchen (https://www.nantucketislandkitchen.com)
+[Sayle's](https://www.saylesseafood.com/take-out.html)
 
-- [Sayle's](https://www.saylesseafood.com/take-out.html)
+**Sayle’s**
 
-- Back Yard BBQ
-
-
+B-ack Yard BBQ
